@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>psspringboot_quickstart</artifactId>
+    <artifactId>ps-public01</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- 导入springboot父工程. 注意：任何的SpringBoot工程都必须有的！！！ -->
